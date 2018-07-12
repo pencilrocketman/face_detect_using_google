@@ -1,0 +1,8 @@
+face_image/*
+face_scratch_image/*
+my_model.h5
+opencv/*
+origin_image/*
+test_image/*
+.cache/*
+.python-version
